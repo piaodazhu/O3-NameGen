@@ -1,0 +1,7 @@
+Number of names: 1000000
+Avg. length of names: 45.356928
+Max length of names: 749
+Avg. length of components: 6.380629
+Max length of components: 639
+Avg. Number of components: 5.838039
+Max Number of components: 17
